@@ -1,0 +1,4 @@
+https://www.thepeterboroughexaminer.com/tncms/access/rules/
+https://www.thepeterboroughexaminer.com/tncms/access/user/
+
+thepeterboroughexaminer.com##.subscriber-only:style(display: inline-block !important)
